@@ -170,8 +170,10 @@ They call me Masud, a student on a quest to unravel the mysteries of the cyber w
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mahirmasud&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
-
-<br>
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/mahirmasud.png" alt="TryHackMe" >
+</p>
+ <br>
 
 #### <p align="center"><b>Thank you for taking the time to read my profile 🤣</b></p>
 
