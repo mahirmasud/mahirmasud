@@ -12,7 +12,7 @@
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-They call me Masud, a student on a quest to unravel the mysteries of the cyber world. Fueled by a burning passion for all things tech, I constantly delve into new frontiers, embracing every challenge that comes my way. The ever-evolving landscape of the digital realm excites me, and I thrive in its dynamism. Collaboration and fostering a supportive community are at the heart of my approach. I believe in inspiring others to break down barriers and chase their dreams in the vast digital landscape. Let's join forces and craft groundbreaking solutions together!
+Nothing just hanging around...........
 <br>
 
   
