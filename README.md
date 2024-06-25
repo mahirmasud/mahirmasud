@@ -161,7 +161,7 @@ Nothing just hanging around...........
 
 <br>
 <p align="center">
-<script src="https://tryhackme.com/badge/2216419"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/mahirmasud.png" alt="TryHackMe">
 </p>
  <br>
 
