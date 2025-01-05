@@ -17,6 +17,11 @@
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white">
+</a>
+
 </p>
 <p > 
 <a href="https://www.kali.org/" target="_blank"> 
