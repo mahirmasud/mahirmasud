@@ -173,7 +173,7 @@ Nothing just hanging around...........
 
 <br>
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/mahirmasud.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/mahirmasud.png" alt="TryHackMe" />
 </p>
  <br>
 
