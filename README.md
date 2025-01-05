@@ -72,22 +72,21 @@ Nothing just hanging around...........
  
 <br>
 
-<p align="center"><!-----Social Accounts------>
-
 <p align="center">
- <a href="">
- <img border="0" alt="" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
-
- <a href="https://www.linkedin.com/in/mohammed-masud-chowdhury-mahir-826b64162/">
- 
- <img border="0" alt="" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
- <a href="mailto:mahirmasud1@gmail.com">
- <img border="0" alt="" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
+  <!----- Social Accounts ----->
+  <a href="">
+    <img border="0" alt="" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/60/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mohammed-masud-chowdhury-mahir-826b64162/">
+    <img border="0" alt="" src="https://img.icons8.com/doodle/60/000000/linkedin--v2.png"/>
+  </a>
+  
+  <a href="mailto:mahirmasud1@gmail.com">
+    <img border="0" alt="" src="https://img.icons8.com/doodle/58/000000/gmail-new.png"/>
+  </a>
 </p>
+
 
 <br>
 
