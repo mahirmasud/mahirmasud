@@ -41,7 +41,7 @@
   </a>
 </p> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+and+Engineering+Student;Cyber+Security+Enthusiast;Networking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+and+Engineering+Student;Cyber+Security+Enthusiast;Networking;AI/ML/LLM+Enthusiast)](https://git.io/typing-svg)
 </div>
 <p align="center" >
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
@@ -58,7 +58,7 @@ Nothing just hanging around...........
 
 - 👯 I’m looking forward to collaborate on python projects.
 
-- 🌱 Learning about Computer Vision and Cyber Security stuff
+- 🌱 Learning about Cyber Security and AI/ML/LLM  stuff
 
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
