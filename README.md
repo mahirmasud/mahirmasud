@@ -131,6 +131,21 @@ Nothing just hanging around...........
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
 </p>
 
+### 🛡️ Cybersecurity
+<p align="left">
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite"></a>
+  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-4E9A06?style=flat&logo=nmap&logoColor=white" alt="Nmap"></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark"></a>
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-25373C?style=flat&logo=metasploit&logoColor=white" alt="Metasploit"></a>
+  <a href="https://ghidra-re.org/" target="_blank"><img src="https://img.shields.io/badge/Ghidra-25373C?style=flat&logo=ghidra&logoColor=white" alt="Ghidra"></a>
+</p>
+
+### 🧠 Workflow & Approach
+<p align="left">
+  <img src="https://img.shields.io/badge/Vibe%20Coding-%23FF00FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vibe Coding">
+  <img src="https://img.shields.io/badge/Agile-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Agile">
+</p>
+
 ### 💻 IDEs & Tools
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
